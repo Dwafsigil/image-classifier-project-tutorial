@@ -30,7 +30,7 @@ At the time the competition was published, the state-of-the-art result was achie
 
 #### Step 1: Loading the dataset
 
-The dataset is located in Kaggle and you will need to access it to download it. You can find the competition [here](https://www.kaggle.com/c/dogs-vs-cats/data) (or by copying and pasting the following link in your browser: `https://www.kaggle.com/c/dogs-vs-cats/data`)
+The dataset is available at this [link](https://storage.googleapis.com/datascience-materials/dogs-vs-cats.zip). Download the folder and unzip the files. You will now have a folder containing the dataset and a subfolder named `train`, which includes over 25,000 image files (in `.jpg` format) of dogs and cats. The photos are labeled by their filenames, with the word `dog` or `cat`.
 
 Download the dataset folder and unzip the files. You will now have a folder called `train` containing 25,000 image files (.jpg format) of dogs and cats. The pictures are labeled by their file name, with the word `dog` or `cat`.
 
@@ -93,4 +93,4 @@ Load the best model from the above and use the test set to make predictions.
 
 Store the model in the corresponding folder.
 
-> Note: We also incorporated the solution samples on `./solution.ipynb` that we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
+> Note: We also incorporated the solution samples on [this link](https://github.com/4GeeksAcademy/image-classifier-project-tutorial/blob/main/solution.ipynb)that ) we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
