@@ -30,9 +30,7 @@ En el momento en que se publicó la competencia, el resultado de última generac
 
 #### Paso 1: Carga del conjunto de datos
 
-El conjunto de datos se encuentra en Kaggle y tendrás que acceder a ella para descargarlos. La competición la puedes encontrar [aquí](https://www.kaggle.com/c/dogs-vs-cats/data) (o copiando y pegando el siguiente enlace en tu navegador: `https://www.kaggle.com/c/dogs-vs-cats/data`)
-
-Descarga la carpeta dataset y descomprime los archivos. Ahora tendrás una carpeta llamada `train` que contiene 25.000 archivos de imagen (formato .jpg) de perros y gatos. Las fotos están etiquetadas por su nombre de archivo, con la palabra `dog` o `cat`.
+El conjunto de datos se encuentra en este [link](https://storage.googleapis.com/datascience-materials/dogs-vs-cats.zip). Descarga la carpeta y descomprime los archivos. Ahora tendrás una carpeta con el dataset y una carpeta llamada `train` que contiene más de 25.000 archivos de imagen (formato .jpg) de perros y gatos. Las fotos están etiquetadas por su nombre de archivo, con la palabra `dog` o `cat`.
 
 #### Paso 2: Visualiza la información de entrada
 
@@ -93,4 +91,4 @@ Carga el mejor modelo de los anteriores y utiliza el conjunto de test para hacer
 
 Almacena el modelo en la carpeta correspondiente.
 
-> Nota: También incorporamos muestras de solución en `./solution.ipynb` que te sugerimos honestamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
+> Nota: También incorporamos muestras de solución en [este link](https://github.com/4GeeksAcademy/image-classifier-project-tutorial/blob/main/solution.es.ipynb)  que te sugerimos honestamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
