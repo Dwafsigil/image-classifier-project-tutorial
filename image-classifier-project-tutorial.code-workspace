@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "image-classifier-project-tutorial",
+		"path": "."
+	},
+	{
+		"name": "dogs-vs-cats",
+		"path": "../../../Desktop/dogs-vs-cats"
+	}
+],
+  "settings": {}
+}
